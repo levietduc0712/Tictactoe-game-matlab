@@ -1,4 +1,4 @@
-# VietDuc
+# Tictactoe_project_game_matlab
 classdef TTT < matlab.apps.AppBase
 
     % Properties that correspond to app components
